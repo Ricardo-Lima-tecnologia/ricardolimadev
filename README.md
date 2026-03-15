@@ -1,10 +1,11 @@
 ## Ricardo Dev | Desenvolvedor Full Stack & Analista de Sistemas
 
-This app was created using https://getmocha.com.
-Need help or want to join the community? Join our [Discord](https://discord.gg/shDEGBSe2d).
+Portfolio profissional - Deploy automático via GitHub + Netlify
 
 To run the devserver:
 ```
 npm install
 npm run dev
 ```
+
+**Última atualização:** Teste de deploy automático - 15/03/2026
