@@ -99,7 +99,7 @@ export default function HeroSection() {
               {/* Main Image Container */}
               <div className="relative rounded-2xl overflow-hidden border border-border/50 glow">
                 <img
-                  src="/hero-image.png"
+                  src="/hero-image.jpg"
                   alt="Ricardo - Desenvolvedor Full Stack & Analista de Sistemas"
                   className="w-full max-w-md lg:max-w-lg object-cover"
                 />
