@@ -1,4 +1,4 @@
-import { ArrowRight, Mail, Phone, MapPin, Linkedin, Github, Instagram } from "lucide-react";
+import { ArrowRight, Mail, Phone, MapPin, Github } from "lucide-react";
 import { Button } from "@/react-app/components/ui/button";
 
 export default function FinalCTASection() {
@@ -79,28 +79,12 @@ export default function FinalCTASection() {
               </p>
               <div className="flex items-center gap-4">
                 <a
-                  href="https://www.linkedin.com/in/ricardo-lima-b0b278169/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="w-10 h-10 rounded-full bg-background border border-border flex items-center justify-center text-muted-foreground hover:text-primary hover:border-primary transition-colors"
-                >
-                  <Linkedin className="w-5 h-5" />
-                </a>
-                <a
                   href="https://github.com/ricardodev"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-10 h-10 rounded-full bg-background border border-border flex items-center justify-center text-muted-foreground hover:text-primary hover:border-primary transition-colors"
                 >
                   <Github className="w-5 h-5" />
-                </a>
-                <a
-                  href="https://www.instagram.com/ricardo.lima_12/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="w-10 h-10 rounded-full bg-background border border-border flex items-center justify-center text-muted-foreground hover:text-primary hover:border-primary transition-colors"
-                >
-                  <Instagram className="w-5 h-5" />
                 </a>
               </div>
             </div>
