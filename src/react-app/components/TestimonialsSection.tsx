@@ -28,33 +28,6 @@ const testimonials = [
     rating: 5,
     highlight: "70% automação",
   },
-  {
-    name: "Elena Rodriguez",
-    role: "Gerente de Operações",
-    company: "HealthFirst Clínica",
-    image: "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=200&h=200&fit=crop&crop=face",
-    content: "Nosso projeto de modernização do portal do paciente foi conduzido impecavelmente. O Ricardo entendeu nossos requisitos de conformidade e entregou um sistema seguro e fácil de usar. Os índices de satisfação dos pacientes aumentaram significativamente.",
-    rating: 5,
-    highlight: "4,8/5 avaliação dos pacientes",
-  },
-  {
-    name: "James Mwangi",
-    role: "Diretor de E-commerce",
-    company: "Urban Style Collective",
-    image: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&h=200&fit=crop&crop=face",
-    content: "Depois que o Ricardo otimizou nosso site de e-commerce, nossa taxa de conversão triplicou. O processo de checkout é fluido, os tempos de carregamento são incríveis, e nossa receita cresceu consistentemente mês após mês. Melhor investimento que fizemos.",
-    rating: 5,
-    highlight: "3x conversões",
-  },
-  {
-    name: "Amanda Foster",
-    role: "Empresária",
-    company: "Foster Consultoria",
-    image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=200&h=200&fit=crop&crop=face",
-    content: "Da consulta inicial à entrega final, a experiência foi excepcional. O Ricardo dedicou tempo para entender nossos objetivos de negócio e entregou um site que verdadeiramente representa nossa marca. A comunicação sempre foi clara e pontual.",
-    rating: 5,
-    highlight: "Serviço excepcional",
-  },
 ];
 
 const stats = [
